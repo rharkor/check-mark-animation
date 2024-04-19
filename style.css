@@ -18,7 +18,7 @@ svg.check-circle {
 /* BELOW IS THE ESSENTIAL CODE FOR THE ANIMATION */
 @keyframes checkmark {
   0% {
-    stroke-dashoffset: 100px;
+    stroke-dashoffset: 50%;
   }
 
   100% {
